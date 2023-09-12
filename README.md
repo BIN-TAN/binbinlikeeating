@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bin Tan
-- 👀 I’m interested in psychological measurement and behavioral modeling
+- 👀 I’m interested in psychological measurement, educational assessment, and behavioral modeling
 - 🌱 I’m currently learning psychometric theory and machine learning
 - 📫 How to reach me btan4@ualberta.ca
 
